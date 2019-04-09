@@ -48,7 +48,7 @@
           <a
             href="https://discourse.mozilla.org/t/profile-privacy-display-levels-explained/37906"
             target="_blank"
-            >Your privacy is protected</a
+            >Your  privacy is protected</a
           >
         </h2>
         <p>
